@@ -61,3 +61,7 @@ footer{
     padding: 15px;
 
 }
+
+aside, article {
+    padding: 2em;
+}
